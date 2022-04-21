@@ -16,3 +16,8 @@ Week 1:
 - TFLite Interpreter 
 - ETC
 - Assignment: Train Fashion MMNIST model and convert it into TFlite
+
+Week 2:
+- Understand how incorporate a TF Lite model into Android apps
+- Create an Android app that performs image classification both from image manually (dog vs cats) and by camera/webcam
+- Create an Android app that performs object detection
