@@ -21,3 +21,8 @@ Week 2:
 - Understand how incorporate a TF Lite model into Android apps
 - Create an Android app that performs image classification both from image manually (dog vs cats) and by camera/webcam
 - Create an Android app that performs object detection
+
+Week 3:
+- Understand how incorporate a TF Lite model into IOS apps
+- Create an IOS app that performs image classification both from image manually (dog vs cats) and by camera/webcam
+- Create an IOS app that performs object detection
