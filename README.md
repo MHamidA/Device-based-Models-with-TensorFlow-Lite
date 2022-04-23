@@ -26,3 +26,15 @@ Week 3:
 - Understand how incorporate a TF Lite model into IOS apps
 - Create an IOS app that performs image classification both from image manually (dog vs cats) and by camera/webcam
 - Create an IOS app that performs object detection
+
+Week 4:
+- Understand how incorporate a TF Lite model into the Raspberry Pi
+
+Certificate:
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/99332005/164878663-04dcc241-aaee-4c30-a2e9-f3216bedbdd8.png">
+</p>
+
+
+
